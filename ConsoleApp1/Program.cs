@@ -4,4 +4,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine(", World!");
+Console.WriteLine(", World!");
+Console.WriteLine("Hello, !");
 Console.WriteLine("Hello, !");
